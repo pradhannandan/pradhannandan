@@ -11,7 +11,7 @@
 
 ### 🔗 Portfolio
 
-> 🎯 Explore my work and projects at 👉 [Portfolio Website](https://ayushkr-profile.netlify.app/)  
+> 🎯 Explore my work and projects at 👉 [Portfolio Website](https://-profile.netlify.app/)  
 > 📌 Don't forget to check out my GitHub activity below 👇
 
 ---
